@@ -28,4 +28,4 @@ A simple and interactive To-Do List application built with HTML, CSS, and JavaSc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-website.git
+   git clone https://github.com/vanshika1708/todo-list.git
